@@ -25,7 +25,6 @@
   <a href="https://www.verilog.com/" target="_blank"><img src="https://www.verilog.com/img/verilog.gif" alt="Verilog" width="40" height="40"/></a>
 </p>
 
-
 ---
 
 ## 📈 My GitHub History!
@@ -34,6 +33,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh432tg3&layout=compact&bg_color=0d1117&border_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=harsh432tg3&theme=dark&ring=be90f2&fire=ffc745&currStreakNum=ffc745&sideLabels=00e5ff&sideNums=be90f2&hide_border=true)](https://git.io/streak-stats)
 
 ---
 ![Snake animation](https://raw.githubusercontent.com/Harsh432tg3/Harsh/output/github-snake-dark.svg)
