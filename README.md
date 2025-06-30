@@ -36,7 +36,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh432tg3&layout=compact&bg_color=0d1117&border_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-![Snake animation](https://github.com/harsh432tg3/harsh432tg3/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Harsh432tg3/Harsh/output/github-snake-dark.svg)
 
 ---
 
